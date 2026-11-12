@@ -15,9 +15,7 @@ body {
 
 .site-header nav h1 {
     margin-left: 20px;
-    background: linear-gradient(to right, #67686d, #f3f5f7);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #fff5f7
 }
 
 
